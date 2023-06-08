@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674178953142",
+    "firebase_url": "https://mess-finder-bpi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mess-finder-bpi",
+    "storage_bucket": "mess-finder-bpi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674178953142:android:9c1ab5003e91397d3cdb17",
+        "android_client_info": {
+          "package_name": "com.akapps.messfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674178953142-8ba4n518j3bql21la2imsm199ctlh402.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtddm0IVDZ4EW_2QLK1BsUrsQR82gsoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674178953142-8ba4n518j3bql21la2imsm199ctlh402.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
